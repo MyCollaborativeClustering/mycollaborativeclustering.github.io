@@ -1,8 +1,7 @@
 ---
 layout: page
+bigimg: "/img/essai-mc2-300x300.jpg"
 ---
-
-
 
 ### L'association
 
