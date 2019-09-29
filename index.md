@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: à propos de l'association
+
 ---
 
 ### L'association
