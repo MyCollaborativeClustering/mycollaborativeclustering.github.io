@@ -116,7 +116,7 @@ var main = {
 
   getImgInfo : function() {
   	var randNum = Math.floor((Math.random() * main.numImgs) + 1);
-    var src = main.bigImgEl.attr("data-img-src-" + randNum);
+    	var src = main.bigImgEl.attr("data-img-src-" + randNum);
 	var desc = main.bigImgEl.attr("data-img-desc-" + randNum);
 
 	return {
@@ -126,7 +126,7 @@ var main = {
   },
 
   setImg : function(src, desc) {
-	$(".intro-header.big-img").css("background-image", 'url(' + src + ')');
+	$(".intro-header.big-img").css({"background-image": 'url(' + src + ')', "background-position": 'top'});
 	if (typeof desc !== typeof undefined && desc !== false) {
 	  $(".img-desc").text(desc).show();
 	} else {
