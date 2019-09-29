@@ -1,7 +1,7 @@
 ---
 layout: page
-
 ---
+
 
 ### L'association
 
