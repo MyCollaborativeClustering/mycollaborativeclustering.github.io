@@ -3,8 +3,6 @@ layout: page
 bigimg: "/img/cropped-visuel-mc2-2000x1199.jpg"
 ---
 
-### L'association
-
 Notre association a pour objet de concevoir et/ou d'accompagner des projets concrets
 pour répondre aux enjeux sociétaux grâce aux technologies de l'information.
 
